@@ -1,4 +1,4 @@
-# Predicción de Esperanza de Vida — Banco Mundial / OMS (2026)
+# Predicción de Esperanza de Vida — Banco Mundial / OMS
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-3.0.0-150458?logo=pandas&logoColor=white)
