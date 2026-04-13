@@ -7,7 +7,7 @@
 ![SHAP](https://img.shields.io/badge/SHAP-latest-8A2BE2)
 ![numpy](https://img.shields.io/badge/numpy-2.4.1-013243?logo=numpy&logoColor=white)
 
-Modelo predictivo de esperanza de vida al nacer por país y año, desarrollado como ejercicio de consultoría para el **Banco Mundial** y la **OMS** · 2026 · Autores: David Rodríguez y Juan Rueda.
+Modelo predictivo de esperanza de vida al nacer por país y año, desarrollado como ejercicio de consultoría con datos del **Banco Mundial** y la **OMS** · 2026 · Autores: David Rodríguez y Juan Rueda.
 
 ---
 
