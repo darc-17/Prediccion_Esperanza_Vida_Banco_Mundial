@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext \"Enunciado.pdf\" -)",
+      "Bash(python3 -c ':*)",
+      "Bash(pdftotext \"Informe_BancoMundial.pdf\" -)",
+      "Bash(python3)"
+    ]
+  }
+}
